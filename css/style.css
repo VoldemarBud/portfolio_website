@@ -1,8 +1,8 @@
-html,body,head,#intro{
+html,body,head,#home{
   height: 100vh;
 }
 
-#intro{
+#home{
   background: url("../img/background-image.jpg") no-repeat center fixed;
   -webkit-background-size: cover;
   background-size: cover;

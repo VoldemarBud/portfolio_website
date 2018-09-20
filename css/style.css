@@ -14,7 +14,21 @@ html,body,head,#home{
   height: 250px;
 }
 
+.copyright{
+ margin-top: 90px;
+}
+
+#map-container{
+  height: 400px;
+}
+
+.deep-purple{
+  width: 60px;
+}
 @media (max-width: 768px) {
+  .copyright{
+    margin-top: 15px;
+  }
   .navbar:not(.top-nav-collapse){
     background-color: #24355C;
   }

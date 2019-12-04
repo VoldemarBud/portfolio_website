@@ -1,4 +1,4 @@
 # My Portfolio WebSite
 
-use technologi:
+use technology:
  html5, css, bootstrap4 , js
